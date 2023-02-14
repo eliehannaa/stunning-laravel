@@ -3,6 +3,7 @@ apt-get is a linux command that is used to install, remove, and update software 
 website ip: 3.253.49.200
 
  cd /var/www/html/
+ 
     9  ls
    10  sudo apt-get install php-cli
    11  sudo apt-get install git
