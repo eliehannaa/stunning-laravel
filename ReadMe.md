@@ -1,4 +1,5 @@
 sudo is a command that gives admin privileges
+
 apt-get is a linux command that is used to install, remove, and update software packages
 website ip: 3.253.49.200
 
